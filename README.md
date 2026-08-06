@@ -1,4 +1,4 @@
-## Hi there us Rushikesh Raut👋
+## Hi ✨  there is Rushikesh Raut👋
 
 <!--
 **rushikeshrautdev/rushikeshrautdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
