@@ -8,8 +8,7 @@ Email Me 👉 ✉️ **rautrushikesh@gmail.com** For Collaboration/Project or An
 - 👨‍💻 **I’m building:** Interactive frontend projects, browser-based applications, games, calculators, and UI-focused projects
 - 🎯 **My goal:**Become a job-ready professional web developer and build real-world applications 
 - 💡 **I’m interested in:** Frontend Development, JavaScript, Web Development & AI-assisted development
-- development
-🤝 **I’m looking to collaborate on:** Beginner-friendly web development and JavaScript projects
+-🤝 **I’m looking to collaborate on:** Beginner-friendly web development and JavaScript projects
 - 💬 **Ask me about:** HTML, CSS, JavaScript and my web development projects
 - 📚 **Currently improving:** JavaScript problem-solving, DOM manipulation, events, asynchronous JavaScript, and project development
 - 📫 How to reach me: rautrushikesh136@gmail.com
